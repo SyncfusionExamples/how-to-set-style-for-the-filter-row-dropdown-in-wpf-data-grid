@@ -77,6 +77,7 @@ public class CustomRowGenerator : RowGenerator
 
 ![FilterRow DropDown Style](FilterDropDownStyle.png)
 
+KB article: [How to set style for the Filter Row dropdown in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12781/how-to-set-style-for-the-filter-row-dropdown-in-wpf-datagrid-sfdatagrid)
 
 ## Requirements to run the demo
 
